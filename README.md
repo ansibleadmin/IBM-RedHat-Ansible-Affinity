@@ -1,18 +1,8 @@
 <h1> IBM / Red Hat Ansible Affinity Matrix<div class="link"><a target="_new" href="[https://github.com/ansible/slides/edit/main/README.md](https://docs.google.com/spreadsheets/d/1iee0hFwPWbJsyb8UyxW64iRo0po3rPjvPte_NE7St34/edit#gid=1421050206)"></a></div></h1>
 
-- [General](#[general]https://docs.google.com/spreadsheets/d/1iee0hFwPWbJsyb8UyxW64iRo0po3rPjvPte_NE7St34/edit#gid=1421050206)
-- [EDA - Event-Driven Ansible](#eda---event-driven-ansible)
-- [Edge Automation](#edge-automation)
-- [Hybrid Cloud Automation](#hybrid-cloud-automation)
-  - [Public Cloud](#public-cloud)
-  - [On Cloud](#on-cloud)
-  - [Cloud Native](#cloud-native)
-  - [Private Cloud - VMware](#private-cloud---vmware)
-- [Network Automation](#network-automation)
-- [Infrastructure Automation](#infrastructure-automation)
-- [Security Automation](#security-automation)
+- [IBM / Red Hat Ansible Affinity Matrix](#[general]https://docs.google.com/spreadsheets/d/1iee0hFwPWbJsyb8UyxW64iRo0po3rPjvPte_NE7St34/edit#gid=1421050206)
 
-# General
+# Ansible / IBM Affinities
 
 <table>
 <thead>
